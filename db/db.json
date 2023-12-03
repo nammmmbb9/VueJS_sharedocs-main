@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "name": "hao",
+      "email": "haocute@test",
+      "password": "hao123"
+    },
+    {
+      "name": "haao",
+      "email": "haoscute@test",
+      "password": "haod123",
+      "id": 1
+    },
+    {
+      "email": "namnamnambb9@gmail.com",
+      "password": "123456",
+      "name": "nam",
+      "id": 2
+    }
+  ]
+}
